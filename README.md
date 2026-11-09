@@ -28,8 +28,13 @@ Support covers bugs in the kits themselves and questions about setting them up a
 
 ## Documentation
 
-- All In One Save Kit: https://romanoassets.github.io/save-kit/
-- All In One Prefab Builder Kit: https://romanoassets.github.io/prefab-builder/
-- All In One Interaction Kit: https://romanoassets.github.io/interaction-kit/
-- Settings Menu Kit: https://romanoassets.github.io/
-- Runtime Building Kit: https://romanoassets.github.io/
+- All In One Prefab Builder Kit: https://romanoassets.github.io/prefab-builder/docs/
+- All In One Interaction Kit: https://romanoassets.github.io/interaction-kit/docs/
+- All In One Save Kit: https://romanoassets.github.io/save-kit/docs/
+- All In One Game Settings & Menu Kit: https://romanoassets.github.io/settings-menu-kit/docs/
+- All In One Runtime Building Kit: https://romanoassets.github.io/runtime-building-kit/docs/
+- All In One Bug Report Kit: https://romanoassets.github.io/bug-report-kit/docs/
+- All In One Surface Footstep Kit: https://romanoassets.github.io/footstep-kit/docs/
+- All In One Tutorial Kit: https://romanoassets.github.io/tutorial-kit/docs/
+- All In One Hit Feedback Kit: https://romanoassets.github.io/hit-feedback-kit/docs/
+- All In One Waypoint & Minimap Kit: https://romanoassets.github.io/waypoint-minimap-kit/docs/

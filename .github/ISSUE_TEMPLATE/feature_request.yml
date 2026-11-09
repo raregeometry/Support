@@ -9,11 +9,16 @@ body:
       label: Product
       description: Which kit is this for?
       options:
-        - All In One Save Kit
         - All In One Prefab Builder Kit
         - All In One Interaction Kit
-        - Settings Menu Kit
+        - All In One Save Kit
+        - All In One Game Settings & Menu Kit
         - All In One Runtime Building Kit
+        - All In One Bug Report Kit
+        - All In One Surface Footstep Kit
+        - All In One Tutorial Kit
+        - All In One Hit Feedback Kit
+        - All In One Waypoint & Minimap Kit
     validations:
       required: true
   - type: textarea
