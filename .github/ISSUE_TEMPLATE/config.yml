@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Questions
-    url: https://github.com/romanoassets/RomanoAssetSupport/discussions
+    url: https://github.com/raregeometry/Support/discussions
     about: Ask setup and usage questions in Discussions.
   - name: Documentation
-    url: https://romanoassets.github.io/
-    about: Read the documentation for every Romano Assets kit.
+    url: https://raregeometry.github.io/
+    about: Read the documentation for every Rare Geometry kit.
